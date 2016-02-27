@@ -1,0 +1,38 @@
+_repo: Gwaith-Twm-o-r-Nant-Cyfrol-2_2734
+contributor:
+  creator:
+    editor:
+      agent_name: Edwards, Owen Morgan, Sir
+      alias: Edwards, O. M., Sir
+      birthdate: 1858
+      deathdate: 1920
+      gutenberg_agent_id: '1144'
+      url: http://www.gutenberg.org/2009/agents/1144
+      wikipedia: http://en.wikipedia.org/wiki/Owen_Morgan_Edwards
+creator:
+  author:
+    agent_name: Edwards, Thomas
+    aliases:
+    - Twm o'r Nant
+    - Nant, Twm o'r
+    birthdate: 1739
+    deathdate: 1810
+    gutenberg_agent_id: '1009'
+    url: http://www.gutenberg.org/2009/agents/1009
+    wikipedia: http://en.wikipedia.org/wiki/Twm_o%27r_Nant
+description: twmnt10h.htm has HTML accents
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2734'
+language: cy
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Welsh poetry'
+- !lcc 'PB'
+title: 'Gwaith Twm o''r Nant
+
+  Cyfrol 2'
+url: http://www.gutenberg.org/ebooks/2734
