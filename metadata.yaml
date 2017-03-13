@@ -1,5 +1,5 @@
 _repo: Gwaith-Twm-o-r-Nant-Cyfrol-2_2734
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -10,6 +10,9 @@ contributor:
       gutenberg_agent_id: '1144'
       url: http://www.gutenberg.org/2009/agents/1144
       wikipedia: http://en.wikipedia.org/wiki/Owen_Morgan_Edwards
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Edwards, Thomas
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1009
     wikipedia: http://en.wikipedia.org/wiki/Twm_o%27r_Nant
 description: twmnt10h.htm has HTML accents
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2734#Gwaith-Twm-o-r-Nant-Cyfrol-2
 gutenberg_issued: '2001-07-01'
 gutenberg_type: Text
 identifiers:
